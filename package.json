@@ -9,7 +9,13 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "chart.js": "^4.4.1",
+    "react-chartjs-2": "^5.2.0",
+    "react-icons": "^4.11.0",
+    "framer-motion": "^10.12.16",
+    "react-hook-form": "^7.45.2",
+    "react-datepicker": "^4.24.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
