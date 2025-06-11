@@ -1,9 +1,11 @@
 module.exports = {
   content: ['./index.html', './src/**/*.{js,jsx}'],
+  darkMode: 'class',
   theme: {
     extend: {
       colors: {
-        brand: '#0055A4',
+        primary: '#014961',
+        secondary: '#F48323',
       },
     },
   },
