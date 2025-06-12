@@ -21,7 +21,7 @@ function ContactVacancies() {
   };
 
   return (
-    <section id="contact" className="py-16 bg-gray-50">
+    <section id="vacatures" className="py-16 bg-gray-50">
       <h2 className="text-3xl font-semibold text-center mb-8 text-primary">Contact &amp; Vacatures</h2>
       <div className="max-w-4xl mx-auto grid md:grid-cols-2 gap-8">
         <form onSubmit={handleSubmit(onSubmit)} className="space-y-4 border rounded p-4">
